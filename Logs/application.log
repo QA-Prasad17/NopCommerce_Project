@@ -1,0 +1,15 @@
+2024-04-05 15:54:57,526  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:54:57,754  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:54:59,207  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:54:59,857  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:55:17,601  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:55:19,426  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:55:19,574  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:55:20,949  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:55:21,509  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:55:36,203  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:55:37,818  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:55:37,991  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:55:39,299  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:55:39,792  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:55:52,107  INFO [main] nopcommerce:80 - closing browser

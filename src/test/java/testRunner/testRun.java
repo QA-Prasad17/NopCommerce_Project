@@ -10,9 +10,9 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions
 (
 		
-		features = ".//Features/Customers.feature",
+		features = ".//Features/Login.feature",
 		glue = "stepDefinations",
-		dryRun = true,
+		dryRun = false,
 		plugin = {"pretty","html:test-output"}
 		
 		)

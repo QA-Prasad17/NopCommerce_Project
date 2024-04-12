@@ -77,6 +77,7 @@ public class searchCustomerPage {
 
 	public void clickSearch() {
 		btnSearch.click();
+		waithelper.waitForElement(btnSearch, 30);
 
 	}
 
@@ -102,6 +103,28 @@ public class searchCustomerPage {
 			if (emailid.equals(email)) {
 				flag = true;
 				break;
+			}
+		}
+
+		return flag;
+
+	}
+	public boolean searchCustomerByName(String Name) {
+		boolean flag = false;
+
+		for (int i = 1; i <= getNoOfRows(); i++) {
+			String name = table.findElement(By.xpath("//table[@id='customers-grid']/tbody/tr[" + i + "]/td[3]"))
+					.getText();
+			
+ 
+
+			String txt[]= name.split(" "); //separating first name and last name
+			
+			System.out.println(name);
+
+			if (txt[0].equals("Victoria")&& txt[1].equals("Terces")) {
+				flag = true;
+				
 			}
 		}
 

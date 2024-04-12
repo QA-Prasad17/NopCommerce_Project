@@ -1,0 +1,169 @@
+2024-04-05 15:36:19,564  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:36:19,779  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:36:20,661  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:36:21,352  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:36:40,684  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:36:42,402  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:36:42,539  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:36:43,859  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:36:44,401  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:37:00,119  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:37:01,632  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:37:01,779  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:37:03,290  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:37:03,745  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:37:14,882  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:51:17,081  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:51:17,284  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:51:18,532  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:51:19,030  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:51:37,830  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:51:39,278  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:51:39,425  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:51:40,000  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:51:40,590  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:51:55,265  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 15:51:56,783  INFO [main] nopcommerce:28 - launching Browser
+2024-04-05 15:51:56,927  INFO [main] nopcommerce:35 - Opening url
+2024-04-05 15:51:58,264  INFO [main] nopcommerce:42 - Providing login details
+2024-04-05 15:51:58,824  INFO [main] nopcommerce:50 - started login process
+2024-04-05 15:52:11,135  INFO [main] nopcommerce:80 - closing browser
+2024-04-05 16:27:12,193  INFO [main] nopcommerce:61 - launching Browser
+2024-04-05 16:27:12,442  INFO [main] nopcommerce:73 - Opening url
+2024-04-05 16:27:13,860  INFO [main] nopcommerce:80 - Providing login details
+2024-04-05 16:27:14,439  INFO [main] nopcommerce:88 - started login process
+2024-04-05 16:27:35,447  INFO [main] nopcommerce:118 - closing browser
+2024-04-05 16:27:39,109  INFO [main] nopcommerce:61 - launching Browser
+2024-04-05 16:27:39,267  INFO [main] nopcommerce:73 - Opening url
+2024-04-05 16:27:40,571  INFO [main] nopcommerce:80 - Providing login details
+2024-04-05 16:27:41,189  INFO [main] nopcommerce:88 - started login process
+2024-04-05 16:27:57,599  INFO [main] nopcommerce:118 - closing browser
+2024-04-05 16:28:01,016  INFO [main] nopcommerce:61 - launching Browser
+2024-04-05 16:28:01,175  INFO [main] nopcommerce:73 - Opening url
+2024-04-05 16:28:02,792  INFO [main] nopcommerce:80 - Providing login details
+2024-04-05 16:28:03,255  INFO [main] nopcommerce:88 - started login process
+2024-04-05 16:28:16,221  INFO [main] nopcommerce:118 - closing browser
+2024-04-05 16:31:58,670  INFO [main] nopcommerce:61 - launching Browser
+2024-04-05 16:31:58,879  INFO [main] nopcommerce:73 - Opening url
+2024-04-05 16:32:00,418  INFO [main] nopcommerce:80 - Providing login details
+2024-04-05 16:32:01,142  INFO [main] nopcommerce:88 - started login process
+2024-04-05 16:32:23,074  INFO [main] nopcommerce:118 - closing browser
+2024-04-05 16:32:27,058  INFO [main] nopcommerce:61 - launching Browser
+2024-04-05 16:32:27,201  INFO [main] nopcommerce:73 - Opening url
+2024-04-05 16:32:28,624  INFO [main] nopcommerce:80 - Providing login details
+2024-04-05 16:32:29,246  INFO [main] nopcommerce:88 - started login process
+2024-04-05 16:32:33,131  INFO [main] nopcommerce:61 - launching Browser
+2024-04-05 16:32:33,285  INFO [main] nopcommerce:73 - Opening url
+2024-04-05 16:32:34,658  INFO [main] nopcommerce:80 - Providing login details
+2024-04-05 16:33:21,367  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:33:21,580  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:33:25,815  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:33:26,313  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:33:45,330  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:33:47,123  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:33:47,298  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:33:48,829  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:33:49,320  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:34:05,030  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:34:06,656  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:34:06,793  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:34:08,155  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:34:08,659  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:34:21,215  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:38:53,225  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:38:53,442  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:38:54,817  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:38:55,407  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:39:15,795  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:39:17,591  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:39:17,768  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:39:19,117  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:39:19,702  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:39:23,185  INFO [main] nopcommerce:101 - login failed
+2024-04-05 16:39:26,216  INFO [main] nopcommerce:110 - Click on logout link
+2024-04-05 16:39:27,718  INFO [main] nopcommerce:101 - login failed
+2024-04-05 16:39:30,739  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:51:52,288  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:51:52,494  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:51:53,929  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:51:54,482  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:52:10,416  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:52:12,917  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:52:13,071  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:52:14,432  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:52:14,983  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:52:28,371  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:52:30,134  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:52:30,304  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:52:30,934  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:52:31,427  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:52:35,395  INFO [main] nopcommerce:101 - login failed
+2024-04-05 16:52:38,421  INFO [main] nopcommerce:110 - Click on logout link
+2024-04-05 16:52:39,826  INFO [main] nopcommerce:101 - login failed
+2024-04-05 16:52:42,850  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:52:44,429  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:52:44,578  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:52:45,936  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:52:46,459  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:52:47,214  INFO [main] nopcommerce:98 - login passed
+2024-04-05 16:55:28,784  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:55:29,075  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:55:30,432  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:55:31,127  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:55:47,212  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:55:49,495  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:55:49,653  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:55:51,002  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:55:51,503  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:56:05,235  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:56:06,882  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:56:07,034  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:56:08,444  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:56:08,958  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:56:12,808  INFO [main] nopcommerce:101 - login failed
+2024-04-05 16:56:15,879  INFO [main] nopcommerce:110 - Click on logout link
+2024-04-05 16:56:17,339  INFO [main] nopcommerce:101 - login failed
+2024-04-05 16:56:20,393  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 16:56:21,921  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 16:56:22,065  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 16:56:23,384  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 16:56:23,937  INFO [main] nopcommerce:87 - started login process
+2024-04-05 16:56:24,728  INFO [main] nopcommerce:98 - login passed
+2024-04-05 17:01:54,921  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:01:55,192  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:01:56,647  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:01:57,230  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:02:03,744  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:02:03,883  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:02:05,231  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:02:05,902  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:02:10,826  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:02:11,033  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:02:12,613  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:02:13,461  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:02:16,428  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:02:16,637  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:02:18,387  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:02:18,965  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:02:19,625  INFO [main] nopcommerce:98 - login passed
+2024-04-05 17:04:30,323  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:04:30,531  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:04:31,866  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:04:32,396  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:04:35,594  INFO [main] nopcommerce:101 - login failed
+2024-04-05 17:04:38,684  INFO [main] nopcommerce:110 - Click on logout link
+2024-04-05 17:04:40,135  INFO [main] nopcommerce:101 - login failed
+2024-04-05 17:04:43,167  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 17:04:44,823  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:04:45,002  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:04:46,325  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:04:46,872  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:04:50,180  INFO [main] nopcommerce:101 - login failed
+2024-04-05 17:04:53,203  INFO [main] nopcommerce:110 - Click on logout link
+2024-04-05 17:04:54,587  INFO [main] nopcommerce:101 - login failed
+2024-04-05 17:04:57,658  INFO [main] nopcommerce:117 - closing browser
+2024-04-05 17:04:59,333  INFO [main] nopcommerce:60 - launching Browser
+2024-04-05 17:04:59,502  INFO [main] nopcommerce:72 - Opening url
+2024-04-05 17:05:00,837  INFO [main] nopcommerce:79 - Providing login details
+2024-04-05 17:05:01,431  INFO [main] nopcommerce:87 - started login process
+2024-04-05 17:05:03,000  INFO [main] nopcommerce:98 - login passed
